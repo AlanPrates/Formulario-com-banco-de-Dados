@@ -44,8 +44,8 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id`, `nome`, `email`, `telefone`, `sexo`, `data_nasc`, `cidade`, `estado`, `endereco`) VALUES
-(1, 'Alan ', 'alan_nz@live.com', '77777777', 'masculino', '2023-06-02', 'Ilheus', 'BA', 'Salobrinho'),
-(2, 'Alan ', 'alan_nz@live.com', '77777777', 'masculino', '2023-06-02', 'Ilheus', 'BA', 'Salobrinho');
+(1, 'Alan ', 'alan_nz@live.com', '77777777', 'masculino', '2023-06-02', 'Ilheus', 'BA', 'S'),
+(2, 'Alan ', 'alan_nz@live.com', '77777777', 'masculino', '2023-06-02', 'Ilheus', 'BA', 'S');
 
 --
 -- Índices para tabelas despejadas
